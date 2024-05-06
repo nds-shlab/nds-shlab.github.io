@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - InternLM/InternLM
+  - InternLM/internevo
+  - InternLM/AcmeTrace
+  - S-Lab-System-Group/Primo
+  - S-Lab-System-Group/Hydro
+  - S-Lab-System-Group/Lucid
