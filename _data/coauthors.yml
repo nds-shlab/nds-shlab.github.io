@@ -1,13 +1,13 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
+"Peng Sun":
+  - firstname: ["Peng", "P. Sun", "Peng Sun"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
+"Qinghao Hu":
+  - firstname: []
     url: https://en.wikipedia.org/wiki/Boris_Podolsky
 
-"rosen":
-  - firstname: ["Nathan", "N."]
+"Qiaoling Chen":
+  - firstname: []
     url: https://en.wikipedia.org/wiki/Nathan_Rosen
 
 "bach":
