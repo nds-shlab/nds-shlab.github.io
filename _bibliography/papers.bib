@@ -3,58 +3,41 @@
 @inproceedings{Centauri,
   title = {Centauri: Enabling Efficient Scheduling for Communication-Computation Overlap in Large Model Training via Communication Partitioning},
   author = {Chen, Chang and Li, Xiuhong and Zhu, Qianchao and Duan, Jiangfei and Sun, Peng and Zhang, Xingcheng and Yang, Chao},
-  booktitle = {Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 3},
+  booktitle = {Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems},
   publisher = {Association for Computing Machinery},
   year = {2024},
   series = {ASPLOS '24},
   award_name={Best Paper Award},
+  abbr={ASPLOS},
+  selected={true}
 }
 
-@article{cai2024internlm2,
-  title={Internlm2 technical report},
+@article{internlm2,
+  title={Internlm2 Technical Report},
   author={Cai, Zheng and Cao, Maosong and Chen, Haojiong and Chen, Kai and Chen, Keyu and Chen, Xin and Chen, Xun and Chen, Zehui and Chen, Zhi and Chu, Pei and others},
   journal={arXiv preprint arXiv:2403.17297},
-  year={2024}
-}
-
-@article{AMSP,
-      title={AMSP: Reducing Communication Overhead of ZeRO for Efficient LLM Training}, 
-      author={Qiaoling Chen and Qinghao Hu and Guoteng Wang and Yingtong Xiong and Ting Huang and Xun Chen and Yang Gao and Hang Yan and Yonggang Wen and Tianwei Zhang and Peng Sun},
-      year={2024},
-      journal = {arXiv preprint arXiv:2311.00257},
-}
-
-@article{UniSched,
-  title={UniSched: A Unified Scheduler for Deep Learning Training Jobs with Different User Demands},
-  author={Gao, Wei and Ye, Zhisheng and Sun, Peng and Zhang, Tianwei and Wen, Yonggang},
-  journal={IEEE Transactions on Computers},
   year={2024},
-  publisher={IEEE}
+  abbr={arXiv},
+  selected={true}
 }
 
-@article{loongserve,
-  title={LoongServe: Efficiently Serving Long-context Large Language Models with Elastic Sequence Parallelism},
-  author={Wu, Bingyang and Liu, Shengyu and Zhong, Yinmin and Sun, Peng and Liu, Xuanzhe and Jin, Xin},
-  journal={arXiv preprint arXiv:2404.09526},
-  year={2024}
-}
 
-@article{ye2024deep,
-  title={Deep Learning Workload Scheduling in GPU Datacenters: A Survey},
-  author={Ye, Zhisheng and Gao, Wei and Hu, Qinghao and Sun, Peng and Wang, Xiaolin and Luo, Yingwei and Zhang, Tianwei and Wen, Yonggang},
-  journal={ACM Computing Surveys},
-  volume={56},
-  number={6},
-  pages={1--38},
-  year={2024},
-  publisher={ACM New York, NY}
-}
-
-@article{chen2024internevo,
+@article{internevo,
   title={InternEvo: Efficient Long-sequence Large Language Model Training via Hybrid Parallelism and Redundant Sharding},
   author={Chen, Qiaoling and Gu, Diandian and Wang, Guoteng and Chen, Xun and Xiong, YingTong and Huang, Ting and Hu, Qinghao and Jin, Xin and Wen, Yonggang and Zhang, Tianwei and others},
   journal={arXiv preprint arXiv:2401.09149},
-  year={2024}
+  year={2024},
+  abbr={arXiv},
+  selected={true}
+}
+
+@article{AMSP,
+  title={AMSP: Reducing Communication Overhead of ZeRO for Efficient LLM Training}, 
+  author={Qiaoling Chen and Qinghao Hu and Guoteng Wang and Yingtong Xiong and Ting Huang and Xun Chen and Yang Gao and Hang Yan and Yonggang Wen and Tianwei Zhang and Peng Sun},
+  year={2024},
+  journal = {arXiv preprint arXiv:2311.00257},
+  abbr={arXiv},
+  selected={true}
 }
 
 @inproceedings {Acme,
@@ -65,16 +48,53 @@
 	pages = {709--729},
 	publisher = {USENIX Association},
 	series = {NSDI '24},
+  abbr={NSDI},
+  selected={true}
 }
 
+@article{UniSched,
+  title={UniSched: A Unified Scheduler for Deep Learning Training Jobs with Different User Demands},
+  author={Gao, Wei and Ye, Zhisheng and Sun, Peng and Zhang, Tianwei and Wen, Yonggang},
+  journal={IEEE Transactions on Computers},
+  year={2024},
+  publisher={IEEE},
+  abbr={IEEE},
+  selected={true}
+}
+
+@article{loongserve,
+  title={LoongServe: Efficiently Serving Long-context Large Language Models with Elastic Sequence Parallelism},
+  authod={Bingyang Wu and Shengyu Liu and Yinmin Zhong and Peng Sun and Xuanzhe Liu and Xin Jin},
+  journal={arXiv preprint arXiv:2404.09526},
+  year={2024},
+  abbr={arXiv},
+  selected={true}
+}
+
+@article{ye2024deep,
+  title={Deep Learning Workload Scheduling in GPU Datacenters: A Survey},
+  author={Ye, Zhisheng and Gao, Wei and Hu, Qinghao and Sun, Peng and Wang, Xiaolin and Luo, Yingwei and Zhang, Tianwei and Wen, Yonggang},
+  journal={ACM Computing Surveys},
+  volume={56},
+  number={6},
+  pages={1--38},
+  year={2024},
+  publisher={ACM New York, NY},
+  abbr={ACM},
+  selected={false}
+}
+ 
 @inproceedings{Lucid,
-title = {Lucid: A Non-intrusive, Scalable and Interpretable Scheduler for Deep Learning Training Jobs},
-author = {Hu, Qinghao and Zhang, Meng and Sun, Peng and Wen, Yonggang and Zhang, Tianwei},
-booktitle = {Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2},
-publisher = {Association for Computing Machinery},
-year = {2023},
-series = {ASPLOS '23},
-award_name={Distinguished Paper Award}
+  title = {Lucid: A Non-intrusive, Scalable and Interpretable Scheduler for Deep Learning Training Jobs},
+  author = {Hu, Qinghao and Zhang, Meng and Sun, Peng and Wen, Yonggang and Zhang, Tianwei},
+  booktitle = {Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems},
+  publisher = {Association for Computing Machinery},
+  year = {2023},
+  series = {ASPLOS '23},
+  award_name={Distinguished Paper Award},
+  doi={10.1145/3575693.3575705},
+  abbr={ASPLOS},
+  selected={true}
 }
 
 @inproceedings {Hydro,
@@ -85,6 +105,8 @@ award_name={Distinguished Paper Award}
 	pages = {757--777},
 	publisher = {USENIX Association},
 	series = {OSDI '23},
+  abbr={OSDI},
+  selected={true}
 }
 
 @inproceedings {Primo,
@@ -95,10 +117,12 @@ award_name={Distinguished Paper Award}
 	pages = {519--538},
 	publisher = {USENIX Association},
 	series = {{ATC} '22},
+  abbr={ATC},
+  selected={true}
 }
 
-@ARTICLE{ASTRAEA,
-  author={Zhisheng Ye and Sun, Peng and Gao, Wei and Zhang, Tianwei and Wang, Xiaolin and Yan, Shengen and Luo, Yingwei},
+@ARTICLE{Astraea,
+  author={Zhisheng Ye and Peng Sun and Wei Gao and Tianwei Zhang and Xiaolin Wang and Shengen Yan and Yingwei Luo},
   journal={IEEE Transactions on Parallel and Distributed Systems}, 
   title={ASTRAEA: A Fair Deep Learning Scheduler for Multi-Tenant GPU Clusters}, 
   year={2022},
@@ -106,6 +130,8 @@ award_name={Distinguished Paper Award}
   number={11},
   pages={2781-2793},
   keywords={Graphics processing units;Resource management;Training;Measurement;Deep learning;Venus;Dynamic scheduling;Distributed systems;deep learning;GPU cluster scheduling},
-  doi={10.1109/TPDS.2021.3136245}
+  doi={10.1109/TPDS.2021.3136245},
+  abbr={IEEE},
+  selected={false}
 }
 
