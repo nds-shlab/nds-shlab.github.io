@@ -2,7 +2,7 @@
 layout: default
 permalink: /team/
 title: team
-description: members of DTS
+description: members of NDS
 nav: true
 nav_order: 2
 ---
@@ -10,35 +10,35 @@ nav_order: 2
 
 ## Supervisor
 
-- Peng Sun (孙鹏)
+[Dr. Peng Sun (孙鹏)](https://scholar.google.com.hk/citations?user=NXDhhAoAAAAJ&hl=en)
 
-Peng Sun received the PhD degree in computer science from Nanyang Technological University in 2018. He is currently a research scientist in Shanghai Artificial Intelligence Laboratory. His research interests include cloud computing, data center and large-scale cluster computing systems for machine learning.
+Peng Sun received the PhD degree in computer science from Nanyang Technological University in 2018. He is currently a research scientist in Shanghai Artificial Intelligence Laboratory. His research interests include cloud computing, data center and large-scale cluster computing systems for machine learning. 
 
 ## Co-Supervisor
 
-- Hu Qinghao (胡擎浩)
+[Dr. Qinghao Hu (胡擎浩)](https://scholar.google.com/citations?user=hTxCe4oAAAAJ&hl=en)
 
-Qinghao Hu received his Ph.D. in Computer Science from Nanyang Technological University (NTU) in 2023. He is currently a Research Assistant Professor at NTU. His research interests include systems for large models, datacenter management and scheduling, and machine learning for systems.
+Qinghao Hu received his Ph.D. in Computer Science from Nanyang Technological University (NTU) in 2023. He is currently a Research Assistant Professor at NTU. His research interests include systems for large models, datacenter management and scheduling, and machine learning for systems. Qinghao received Distinguished Paper Award of ASPLOS ’23 and Youth Outstanding Paper Award of WAIC ‘23. He is also a recipient of the “Systems and Networking” area of the Google Fellowship 2023 Award.
 
 ## Research Engineer
 
 - Z. Cai
 - X. Chen
-- RJ. Ge
+- R. Ge
 - T. Huang
-- PL. Jiao
-- JX. Li
-- WW. Qu
-- DX. Shi
-- GT. Wang
-- YT. Xiong
+- P. Jiao
+- J. Li
+- W. Qu
+- D. Shi
+- G. Wang
+- Y. Xiong
 
 ## Intern
 
-- QL. Chen
+- Q. Chen
 - W. Gao
-- JK. Wang
-- BY. Wu
+- J. Wang
+- B. Wu
 - M. Zhang
 
 ## Joint PhD Student
@@ -48,5 +48,5 @@ Qinghao Hu received his Ph.D. in Computer Science from Nanyang Technological Uni
 
 ##  Alumi
 
-- Zhisheng Ye (Intern from 2022 to 2024)
+- Zhisheng Ye (Intern from 2022 to 2024, Peking University)
 
