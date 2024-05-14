@@ -16,6 +16,8 @@ subtitle: We enhance the performance and efficiency of machine learning systems!
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
+---
+
 
 The Distributed Training Systems (DTS) Group is a research team at the Shanghai Artificial Intelligence Laboratory. We specialize in developing efficient systems and architectures for deep learning model training and deployment. Our research has been recognized at leading conferences such as OSDI, ASPLOS, and NSDI, underscoring our commitment to innovation in the field. We used to won the best paper award of ASPLOS'24, and distinguished paper award of ASPLOS'23.
 
@@ -31,5 +33,4 @@ We are always looking for passionate individuals, including full-time research e
 对DTS组感兴趣的同学可将简历发送至导师邮箱：sunpeng@pjlab.org.cn。
 
 
----
 
