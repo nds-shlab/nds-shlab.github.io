@@ -3,11 +3,11 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: High Performance Machine Learning System Group
+first_name: DTS Group @ Shanghai AI Lab
 middle_name: 
 last_name: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  High Performance Machine Learning System Group
+  DTS Group @ Shanghai AI Lab
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -123,8 +123,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: High Performance Machine Learning System Group # blog_name will be displayed in your blog page
-blog_description: a research group at the <a href="https://www.shlab.org.cn/">Shanghai AI Laboratory</a>.
+blog_name: DTS Group # blog_name will be displayed in your blog page
+blog_description: We enhance the performance and efficiency of machine learning systems!
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -169,7 +169,7 @@ collections:
     output: true
     permalink: /news/:path/
   projects:
-    output: true
+    output: false
     permalink: /projects/:path/
 
 announcements:
@@ -178,7 +178,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
