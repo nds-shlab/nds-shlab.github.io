@@ -31,9 +31,7 @@ We are always seeking passionate individuals, including full-time research engin
 **重要通知：2025年联合培养博士项目**
 
 上海人工智能实验室2025年高校联合培养博士研究生项目已开启，欢迎2025年毕业的本科生参与，具体情况请参考[招生简介](https://www.shlab.org.cn/enrollment#channel_599)。
-
 分布式训练系统研究组（DTS Group）现招收与上海交通大学或复旦大学联合培养的博士研究生。研究方向主要聚焦于大规模人工智能模型训练系统的性能优化与能耗优化。研究组内科研氛围良好，提供充足的算力资源和生活补助，并与国内外知名系统研究团队保持合作，每年都有高质量的研究成果产出。
-
 对DTS组感兴趣的同学可将简历发送至导师邮箱：孙鹏 / sunpeng@pjlab.org.cn。
 
 
