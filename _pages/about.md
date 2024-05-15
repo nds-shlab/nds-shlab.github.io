@@ -28,13 +28,14 @@ The NDS Group operates under the Center of AI Training and Computation (CAIF), l
 We are always seeking passionate individuals, including full-time research engineers and interns, to join our team. If you are interested in contributing to cutting-edge research in machine learning systems, please reach out to us at [sunpeng@pjlab.org.cn](mailto:sunpeng@pjlab.org.cn).
 
 
-**重要通知：2025年联合培养博士项目**
-
-上海人工智能实验室2025年高校联合培养博士研究生项目现已启动，欢迎2025年毕业的（具有保研资格）本科生积极参与。具体情况请参考[招生简介](https://www.shlab.org.cn/enrollment#channel_599)。
+**联合培养博士项目**
 
 网络与分布式系统研究组（NDS Group）现招收与上海交通大学或复旦大学联合培养的博士研究生。研究方向主要集中在大规模人工智能模型训练系统的性能优化与能耗优化。研究组内科研氛围浓厚，提供充足的算力资源和生活补助，并与国内外知名系统研究团队保持密切合作，每年都有高质量的研究成果产出。
 
 对NDS组感兴趣的同学请将简历发送至导师孙鹏的邮箱：sunpeng@pjlab.org.cn。
 
+- （2025年入学）上海人工智能实验室2025年高校联合培养博士研究生项目现已启动，欢迎2025年毕业的（具有保研资格）本科生积极参与。具体情况请参考[招生简介](https://www.shlab.org.cn/enrollment#channel_599)。
+
+- （2024年入学）NDS研究组与复旦大学有"申请-考核"制联合培养博士研究生名额，报名截止日期为2024年5月22日。具体情况请参考[复旦大学部分专业2024年招收博士研究生报名启事](https://mp.weixin.qq.com/s/Wf4YxLuqD12VuPkLqVBWvw)。
 
 
