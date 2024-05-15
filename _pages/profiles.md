@@ -46,7 +46,7 @@ Qinghao Hu received his Ph.D. in Computer Science from Nanyang Technological Uni
 - Zerui Wang (2023 intake)
 - Jialu Li (2024 intake)
 
-##  Alumi
+##  Alumni
 
 - Zhisheng Ye (Intern from 2022 to 2024, Peking University)
 - Diandian Gu (Intern in 2023, Peking University)
