@@ -16,7 +16,7 @@ Peng Sun received the PhD degree in computer science from Nanyang Technological 
 
 ## Consultant
 
-[Dr. Qinghao Hu (胡擎浩)](https://scholar.google.com/citations?user=hTxCe4oAAAAJ&hl=en)
+[Dr. Qinghao Hu (胡擎昊)](https://scholar.google.com/citations?user=hTxCe4oAAAAJ&hl=en)
 
 Qinghao Hu received his Ph.D. in Computer Science from Nanyang Technological University (NTU) in 2023. He is currently a Research Assistant Professor at NTU. His research interests include systems for large models, datacenter management and scheduling, and machine learning for systems. Qinghao received Distinguished Paper Award of ASPLOS ’23 and Youth Outstanding Paper Award of WAIC ‘23. He is also a recipient of the “Systems and Networking” area of the Google Fellowship 2023 Award.
 
