@@ -36,6 +36,4 @@ We are always seeking passionate individuals, including full-time research engin
 
 - （2025年入学）上海人工智能实验室2025年高校联合培养博士研究生项目现已启动，欢迎2025年毕业的（具有保研资格）本科生积极参与。具体情况请参考[招生简介](https://www.shlab.org.cn/enrollment#channel_599)。
 
-- （2024年入学）NDS研究组与复旦大学有"申请-考核"制联合培养博士研究生名额，报名截止日期为2024年5月22日。具体情况请参考[复旦大学部分专业2024年招收博士研究生报名启事](https://mp.weixin.qq.com/s/Wf4YxLuqD12VuPkLqVBWvw)。
-
 
