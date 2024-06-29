@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our paper "TorchGT':' A Holistic System for Large-scale Graph Transformer Training" was accepted by <b>SC 2024</b>.
+title: Our paper "TorchGT A Holistic System for Large-scale Graph Transformer Training" was accepted by <b>SC 2024</b>.
 date: 2024-06-29 16:11:00-0400 
 inline: false
 related_posts: false
