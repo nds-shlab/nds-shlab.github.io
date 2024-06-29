@@ -19,7 +19,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 
-The Network and Distributed Systems (NDS) Group at the Shanghai Artificial Intelligence Laboratory, led by [Dr. Peng Sun](https://scholar.google.com.hk/citations?user=NXDhhAoAAAAJ&hl=en), specializes in developing efficient systems and architectures for deep learning model training and deployment. We create both internal and open-sourced systems to efficiently train large language models and multimodal models on thousands of AI chips.
+The Network and Distributed Systems (NDS) Group at the [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn), led by [Dr. Peng Sun](https://scholar.google.com.hk/citations?user=NXDhhAoAAAAJ&hl=en), specializes in developing efficient systems and architectures for deep learning model training and deployment. We create both internal and open-sourced systems to efficiently train large language models and multimodal models on thousands of AI chips.
 
 Our research has been recognized at leading conferences such as OSDI, NSDI and ASPLOS , highlighting our commitment to innovation. We received the Best Paper Award at ASPLOS 2024 and the Distinguished Paper Award at ASPLOS 2023.
 
