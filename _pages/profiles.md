@@ -44,8 +44,8 @@ Qinghao Hu received his Ph.D. in Computer Science from Nanyang Technological Uni
 
 - Zerui Wang (2023 intake, SJTU)
 - Jialu Li (2024 intake, SJTU)
-- Tenghui Ma (2024 intake, FUDAN)
-- Jihu Guo (2024 intake, FUDAN)
+- Tenghui Ma (2024 intake, FDU)
+- Jihu Guo (2024 intake, FDU)
 
 ##  Alumni
 
