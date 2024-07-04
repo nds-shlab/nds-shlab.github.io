@@ -39,6 +39,8 @@ Qinghao Hu received his Ph.D. in Computer Science from Nanyang Technological Uni
 - W. Gao (Nanyang Technological University)
 - J. Wang (UIUC)
 - M. Zhang (Nanyang Technological University)
+- K. Qian (Tsinghua University)
+- X. Luo (Shanghai Jiao Tong University)
 
 ## Joint PhD Student
 
@@ -51,5 +53,5 @@ Qinghao Hu received his Ph.D. in Computer Science from Nanyang Technological Uni
 
 - Zhisheng Ye (Intern from 2022 to 2024, Peking University)
 - Diandian Gu (Intern in 2023, Peking University)
-- B. Wu (Intern in 2024, Peking University)
+- Bingyang Wu (Intern in 2024, Peking University)
 
