@@ -12,7 +12,7 @@ nav_order: 2
 
 [Dr. Peng Sun (孙鹏)](https://scholar.google.com.hk/citations?user=NXDhhAoAAAAJ&hl=en)
 
-Peng Sun received the PhD degree in computer science from Nanyang Technological University in 2018. He is currently a research scientist in Shanghai Artificial Intelligence Laboratory. His research interests include cloud computing, data center and large-scale cluster computing systems for machine learning. 
+Peng Sun received the Ph.D. degree in computer science from Nanyang Technological University in 2018. He is currently a research scientist in Shanghai Artificial Intelligence Laboratory. His research interests include cloud computing, data center and large-scale cluster computing systems for machine learning. 
 
 ## Consultant
 
@@ -37,10 +37,10 @@ Qinghao Hu received his Ph.D. in Computer Science from Nanyang Technological Uni
 
 - Q. Chen (Nanyang Technological University)
 - W. Gao (Nanyang Technological University)
-- J. Wang (UIUC)
 - M. Zhang (Nanyang Technological University)
 - K. Qian (Tsinghua University)
 - X. Luo (Shanghai Jiao Tong University)
+- Y. Zhao (Peking University)
 
 ## Joint PhD Student
 
@@ -54,4 +54,5 @@ Qinghao Hu received his Ph.D. in Computer Science from Nanyang Technological Uni
 - Zhisheng Ye (Intern from 2022 to 2024, Peking University)
 - Diandian Gu (Intern in 2023, Peking University)
 - Bingyang Wu (Intern in 2024, Peking University)
+- Jiankun Wang (Intern in 2024, UIUC)
 
