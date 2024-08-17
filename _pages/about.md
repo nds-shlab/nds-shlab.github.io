@@ -34,6 +34,6 @@ We are always seeking passionate individuals, including full-time research engin
 
 对NDS组感兴趣的同学请将简历发送至导师孙鹏的邮箱：sunpeng@pjlab.org.cn。
 
-- （2025年入学）上海人工智能实验室2025年高校联合培养博士研究生项目现已启动，欢迎2025年毕业的（具有保研资格）本科生积极参与。具体情况请参考[招生简介](https://www.shlab.org.cn/enrollment#channel_599)。
+- （2025年入学）（名额已满） 上海人工智能实验室2025年高校联合培养博士研究生项目现已启动，欢迎2025年毕业的（具有保研资格）本科生积极参与。具体情况请参考[招生简介](https://www.shlab.org.cn/enrollment#channel_599)。
 
 
